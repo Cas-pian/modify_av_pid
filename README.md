@@ -8,8 +8,12 @@ It's based on libdvbpsi library.
 
 Install:
   libdvbpsi:
+  
     1.visit http://download.videolan.org/pub/libdvbpsi
+    
     2.download the newest libdvbpsi library
+    
     3.compile libdvbpsi(configure, make, make install)
-    4.run make
+    
+    4.run make.
 
