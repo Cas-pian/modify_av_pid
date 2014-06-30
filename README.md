@@ -10,7 +10,7 @@ Install:
   
     1.visit http://download.videolan.org/pub/libdvbpsi , download the newest libdvbpsi library
     
-    3.compile libdvbpsi(configure, make, make install)
+    2.compile libdvbpsi(configure, make, make install)
     
-    4.run make.
+    3.run make.
 
